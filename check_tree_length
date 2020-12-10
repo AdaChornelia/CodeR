@@ -1,0 +1,10 @@
+# code below to check the tree length prior to running BioGeoBEARS
+library(ape)
+tree_file_name = "tree.newick" #specify the tree file name
+tree = read.tree (file=tree_file_name) #read the tree
+tree$edge.length #see the original tree length
+
+# plot the tree
+plot(tree)
+axisPhylo() #to add the time or time estimation axis
+
