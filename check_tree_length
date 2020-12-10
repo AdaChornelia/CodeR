@@ -7,4 +7,3 @@ tree$edge.length #see the original tree length
 # plot the tree
 plot(tree)
 axisPhylo() #to add the time or time estimation axis
-
