@@ -11,4 +11,4 @@ data preparation:
 2. Geography files (PHYLIP)
 
 Prior data analysis:
-check the dataset (BEAST tree and PHYLIP files for be=iogeographic files)
+check the dataset (BEAST tree and PHYLIP files for biogeographic files)
