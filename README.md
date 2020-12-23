@@ -9,3 +9,6 @@ Written again in GitHub at December 2020
 data preparation:
 1. phylogenetic tree (dated)
 2. Geography files (PHYLIP)
+
+Prior data analysis:
+check the dataset (BEAST tree and PHYLIP files for be=iogeographic files)
